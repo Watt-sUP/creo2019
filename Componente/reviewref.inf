@@ -1,0 +1,42 @@
+﻿|***************************|
+    REFERENCE INFORMATION    
+|***************************|
+ Reference No.1 out of 1 
+
+Reference:
+   TYPE   : cylinder
+
+Status   : in geometry
+
+
+Reference owner:
+ Model   :
+   NAME   : TETRIX_739271_2013 
+   TYPE   : Part
+ Feature :
+
+    FEATURE NUMBER       5
+    INTERNAL FEATURE ID  69
+    PARENTS = 67(#4) 
+
+
+ IMPORT FEATURE
+
+  NO.   ELEMENT NAME       INFO                                                 
+  ---   -------------      -------------                                        
+   1    Feature Name       Defined                                              
+   2    Location Method    Coord Sys                                            
+   3    Coordinate System  DEFAULT_CSYS:F4(CSYS)                                
+   4    Make Solid         Make Solid enabled                                   
+   5    Material           Add                                                  
+
+
+
+    FEATURE'S ENTITIES AND GEOMETRY ARE IN LAYER(S):
+
+    Quilt created by feature 5, model TETRIX_739271_2013.
+      SHELL - OPERATION = SHOWN
+
+    Solid geometry of part TETRIX_739271_2013.
+      SHELL - OPERATION = SHOWN
+

@@ -1,0 +1,190 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Message Dialog: Warning
+!               : Unable to get required Creo Simulate license.
+!               : Please contact your sales representative.
+~ Activate `UI Message Dialog` `ok`
+!ODUI external UI session start for device : sim_dlg_mdl_type 
+~ Activate `sim_dlg_mdl_type` `OKPush`
+!ODUI external UI session stop. 
+!%CWUnable to get required Creo Simulate license.
+!%C_Please contact your sales representative.
+! Message Dialog: Warning
+!               : Unable to get required Creo Simulate license.
+!               : Please contact your sales representative.
+~ Activate `UI Message Dialog` `ok`
+!ODUI external UI session start for device : sim_dlg_mdl_type 
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `main_dlg_w1:PHTLeft.AssyTree:<NULL>`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 540 291 0 1 1169 606 1536 864 121102
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 540 291 0 0 1169 606 1536 864 121164
+@ sel view 0
+ -214.437867 -592.218850 -60.064347 -471.724294 208.006961 -366.774844
+ 363.052451 -79.526279 -512.038065 325.183870 585.341539 -1706.623697 1.000000 0.000000 0
+~ Activate `sim_dlg_mdl_type` `OKPush`
+!ODUI external UI session stop. 
+!%CWUnable to get required Creo Simulate license.
+!%C_Please contact your sales representative.
+! Message Dialog: Warning
+!               : Unable to get required Creo Simulate license.
+!               : Please contact your sales representative.
+~ Activate `UI Message Dialog` `ok`
+!ODUI external UI session start for device : sim_dlg_mdl_type 
+~ Activate `sim_dlg_mdl_type` `CancelPush`
+!ODUI external UI session stop. 
+!%CILeaving Creo Simulate for the model HAIDA.ASM...
+~ Activate `save_objects_dlg` `YesPush`
+!%CWNew objects created with this educational version of Creo Parametric will not be
+!%C_compatible with commercially licensed Creo Parametric software.
+!%CIHAIDA has been saved.
+!Command ProCmdWinClose was pushed from the software.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 1536 0 0 864 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `OmniWheel.asm`
+~ Trail `UI Desktop` `UI Desktop` `PREVIEW_POPUP_TIMER` \
+ `file_open:Ph_list.Filelist:<NULL>`
+~ Activate `file_open` `Ph_list.Filelist` 1 `OmniWheel.asm`
+!Command ProCmdModelOpenExe was pushed from the software.
+!13-Feb-17 20:44:46  Start B:\CREO\Robot Creo+Parts\Tetrix_Stained\OmniWheel.asm.6
+!13-Feb-17 20:44:46  End   B:\CREO\Robot Creo+Parts\Tetrix_Stained\OmniWheel.asm.6
+!13-Feb-17 20:44:46  Start B:\CREO\Robot Creo+Parts\Tetrix_Stained\tetrix_736466_hub_2012.prt
+!13-Feb-17 20:44:46  End   B:\CREO\Robot Creo+Parts\Tetrix_Stained\tetrix_736466_hub_2012.prt
+!13-Feb-17 20:44:46  Start B:\CREO\Robot Creo+Parts\Tetrix_Stained\tetrix_736466_roller_2012.asm.2
+!13-Feb-17 20:44:46  Start B:\CREO\Robot Creo+Parts\Tetrix_Stained\tetrix_736466_roller_axle_2012.prt
+!13-Feb-17 20:44:46  End   B:\CREO\Robot Creo+Parts\Tetrix_Stained\tetrix_736466_roller_axle_2012.prt
+!13-Feb-17 20:44:46  Start B:\CREO\Robot Creo+Parts\Tetrix_Stained\tetrix_736466_roller_2012.prt
+!13-Feb-17 20:44:46  End   B:\CREO\Robot Creo+Parts\Tetrix_Stained\tetrix_736466_roller_2012.prt
+!13-Feb-17 20:44:46  Start B:\CREO\Robot Creo+Parts\Tetrix_Stained\tetrix_736466_bearing_2012.prt
+!13-Feb-17 20:44:46  End   B:\CREO\Robot Creo+Parts\Tetrix_Stained\tetrix_736466_bearing_2012.prt
+!13-Feb-17 20:44:46  End   B:\CREO\Robot Creo+Parts\Tetrix_Stained\tetrix_736466_roller_2012.asm.2
+!13-Feb-17 20:44:46  Start B:\CREO\Robot Creo+Parts\Tetrix_Stained\tetrix_736466_screw_2012.prt
+!13-Feb-17 20:44:46  End   B:\CREO\Robot Creo+Parts\Tetrix_Stained\tetrix_736466_screw_2012.prt
+!%CDLine 2 assembly OMNIWHEEL: Model changed since mass props calculated. May need to recalculate.
+!Mechanism Design Command Script File
+!	Version: 	P_20_72:spg
+!	Platform:	x86e_win64
+!	Created: 	2/13/2017 at 20:44:46
+!Mechanism Design Command Script File
+!	Version: 	P_20_72:spg
+!	Platform:	x86e_win64
+!	Created: 	2/13/2017 at 20:44:46
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CDLine 2 assembly OMNIWHEEL: Model changed since mass props calculated. May need to recalculate.
+!Mechanism Design Command Script File
+!	Version: 	P_20_72:spg
+!	Platform:	x86e_win64
+!	Created: 	2/13/2017 at 20:44:47
+!Mechanism Design Command Script File
+!	Version: 	P_20_72:spg
+!	Platform:	x86e_win64
+!	Created: 	2/13/2017 at 20:44:47
+!%CIPart 'TETRIX_736466_HUB_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_AXLE_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_BEARING_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_ROLLER_2012' not changed since last regen.
+!%CIPart 'TETRIX_736466_SCREW_2012' not changed since last regen.
+!%CIPart 'OMNIWHEEL' not changed since last regen.
+!%CIEntering Creo Simulate for the model OMNIWHEEL.ASM...
+!%CWUnable to get required Creo Simulate license.
+!%C_Please contact your sales representative.
+! Message Dialog: Warning
+!               : Unable to get required Creo Simulate license.
+!               : Please contact your sales representative.
+~ FocusIn `UI Message Dialog` `ok`
+~ Activate `UI Message Dialog` `ok`
+!ODUI external UI session start for device : sim_dlg_mdl_type 
+~ Wheel `main_dlg_cur` `proe_win` 9 615 291 393216 0 1169 606 1536 864 134892
+~ MButtonArm `main_dlg_cur` `proe_win` 9 612 290 0 2 1169 606 1536 864 134942
+~ Move `main_dlg_cur` `proe_win` 9 610 289 0 1538 1169 606 1536 864 134948
+~ Move `main_dlg_cur` `proe_win` 9 607 287 0 1538 1169 606 1536 864 134956
+~ Move `main_dlg_cur` `proe_win` 9 603 285 0 1538 1169 606 1536 864 134964
+~ Move `main_dlg_cur` `proe_win` 9 598 284 0 1538 1169 606 1536 864 134972
+~ Move `main_dlg_cur` `proe_win` 9 595 282 0 1538 1169 606 1536 864 134984
+~ Move `main_dlg_cur` `proe_win` 9 586 279 0 1538 1169 606 1536 864 135001
+~ Move `main_dlg_cur` `proe_win` 9 576 277 0 1538 1169 606 1536 864 135017
+~ Move `main_dlg_cur` `proe_win` 9 565 275 0 1538 1169 606 1536 864 135033
+~ Move `main_dlg_cur` `proe_win` 9 554 273 0 1538 1169 606 1536 864 135050
+~ Move `main_dlg_cur` `proe_win` 9 545 270 0 1538 1169 606 1536 864 135067
+~ Move `main_dlg_cur` `proe_win` 9 537 268 0 1538 1169 606 1536 864 135084
+~ Move `main_dlg_cur` `proe_win` 9 534 266 0 1538 1169 606 1536 864 135100
+~ Move `main_dlg_cur` `proe_win` 9 532 265 0 1538 1169 606 1536 864 135116
+~ Move `main_dlg_cur` `proe_win` 9 530 263 0 1538 1169 606 1536 864 135133
+~ Move `main_dlg_cur` `proe_win` 9 529 262 0 1538 1169 606 1536 864 135150
+~ Move `main_dlg_cur` `proe_win` 9 527 260 0 1538 1169 606 1536 864 135166
+~ Move `main_dlg_cur` `proe_win` 9 525 259 0 1538 1169 606 1536 864 135183
+~ Move `main_dlg_cur` `proe_win` 9 523 257 0 1538 1169 606 1536 864 135200
+~ Move `main_dlg_cur` `proe_win` 9 522 255 0 1538 1169 606 1536 864 135216
+~ Move `main_dlg_cur` `proe_win` 9 520 253 0 1538 1169 606 1536 864 135233
+~ Move `main_dlg_cur` `proe_win` 9 519 251 0 1538 1169 606 1536 864 135250
+~ Move `main_dlg_cur` `proe_win` 9 516 249 0 1538 1169 606 1536 864 135266
+~ Move `main_dlg_cur` `proe_win` 9 513 244 0 1538 1169 606 1536 864 135283
+~ Move `main_dlg_cur` `proe_win` 9 511 242 0 1538 1169 606 1536 864 135300
+~ Move `main_dlg_cur` `proe_win` 9 507 238 0 1538 1169 606 1536 864 135316
+~ Move `main_dlg_cur` `proe_win` 9 503 232 0 1538 1169 606 1536 864 135333
+~ Move `main_dlg_cur` `proe_win` 9 497 225 0 1538 1169 606 1536 864 135350
+~ Move `main_dlg_cur` `proe_win` 9 491 217 0 1538 1169 606 1536 864 135366
+~ Move `main_dlg_cur` `proe_win` 9 484 209 0 1538 1169 606 1536 864 135383
+~ Move `main_dlg_cur` `proe_win` 9 478 198 0 1538 1169 606 1536 864 135400
+~ Move `main_dlg_cur` `proe_win` 9 472 189 0 1538 1169 606 1536 864 135416
+~ Move `main_dlg_cur` `proe_win` 9 466 179 0 1538 1169 606 1536 864 135433
+~ Move `main_dlg_cur` `proe_win` 9 462 171 0 1538 1169 606 1536 864 135451
+~ Move `main_dlg_cur` `proe_win` 9 459 165 0 1538 1169 606 1536 864 135467
+~ Move `main_dlg_cur` `proe_win` 9 458 156 0 1538 1169 606 1536 864 135484
+~ Move `main_dlg_cur` `proe_win` 9 457 151 0 1538 1169 606 1536 864 135501
+~ Move `main_dlg_cur` `proe_win` 9 457 146 0 1026 1169 606 1536 864 135517
+~ Move `main_dlg_cur` `proe_win` 9 457 143 0 1026 1169 606 1536 864 135534
+~ Move `main_dlg_cur` `proe_win` 9 457 141 0 1026 1169 606 1536 864 135551
+~ Move `main_dlg_cur` `proe_win` 9 457 140 0 1026 1169 606 1536 864 135567
+~ Move `main_dlg_cur` `proe_win` 9 457 139 0 1026 1169 606 1536 864 135584
+~ Move `main_dlg_cur` `proe_win` 9 457 138 0 1026 1169 606 1536 864 135628
+~ Move `main_dlg_cur` `proe_win` 9 458 139 0 1538 1169 606 1536 864 135636
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 458 139 0 0 1169 606 1536 864 135639
+~ Activate `main_dlg_cur` `mechanica_sn3_Modeling2_control_btn` 1
+~ Activate `main_dlg_cur` `mechanica_sn3_Inspect_control_btn` 1
+~ Activate `main_dlg_cur` `mechanica_sn3_Tools_control_btn` 1
+~ Activate `main_dlg_cur` `mechanica_sn3_Modeling1_control_btn` 1
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelPrint` 
+~ Activate `print` `Cancel`
+! Executed sub-command ProCmdModelPrint3D.
+~ Select `main_dlg_cur` `appl_casc`
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!ODUI external UI session stop. 
+!%CILeaving Creo Simulate for the model OMNIWHEEL.ASM...
+~ Activate `save_objects_dlg` `NoPush`
+!Command ProCmdWinClose was pushed from the software.
+!%CIBase window cannot be closed.
+~ RButtonArm `main_dlg_cur` `proe_win` 9 167 120 0 4 1169 606 1536 864 151382
+~ Move `main_dlg_cur` `proe_win` 9 167 121 0 1028 1169 606 1536 864 151396
+~ Move `main_dlg_cur` `proe_win` 9 167 120 0 1028 1169 606 1536 864 151485
+~ RButtonDisarm `main_dlg_cur` `proe_win` 9 167 120 0 0 1169 606 1536 864 151485
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+~ Activate `save_objects_dlg` `NoPush`
+!End of Trail File
