@@ -8,7 +8,7 @@
 
    Depth of loop is 5
 
-Feature number 8 (COMPONENT, id = 50) 
+Feature number 11 (COMPONENT, id = 57) 
   in model AM-3437_HDMEC_TILERUNNER_HD_FTC refers to:
 
 Feature number 16 (COMPONENT, id = 104) 
@@ -17,10 +17,10 @@ Feature number 16 (COMPONENT, id = 104)
 Feature number 8 (COMPONENT, id = 54) 
   in model TILERUNNER_17_HD_FTC_MECANUM_HA refers to:
 
-Feature number 13 (COMPONENT, id = 102) 
+Feature number 17 (COMPONENT, id = 102) 
   in model AM-3437_HDMEC_TILERUNNER_HD_FTC must follow after:
 
-Feature number 8 (COMPONENT, id = 50) 
+Feature number 11 (COMPONENT, id = 57) 
   in model AM-3437_HDMEC_TILERUNNER_HD_FTC - circle closed.
 
 
@@ -28,7 +28,7 @@ Feature number 8 (COMPONENT, id = 50)
 
    Depth of loop is 5
 
-Feature number 9 (COMPONENT, id = 57) 
+Feature number 13 (COMPONENT, id = 122) 
   in model AM-3437_HDMEC_TILERUNNER_HD_FTC refers to:
 
 Feature number 16 (COMPONENT, id = 104) 
@@ -37,10 +37,10 @@ Feature number 16 (COMPONENT, id = 104)
 Feature number 8 (COMPONENT, id = 54) 
   in model TILERUNNER_17_HD_FTC_MECANUM_HA refers to:
 
-Feature number 13 (COMPONENT, id = 102) 
+Feature number 17 (COMPONENT, id = 102) 
   in model AM-3437_HDMEC_TILERUNNER_HD_FTC must follow after:
 
-Feature number 9 (COMPONENT, id = 57) 
+Feature number 13 (COMPONENT, id = 122) 
   in model AM-3437_HDMEC_TILERUNNER_HD_FTC - circle closed.
 
 
@@ -48,7 +48,7 @@ Feature number 9 (COMPONENT, id = 57)
 
    Depth of loop is 5
 
-Feature number 10 (COMPONENT, id = 78) 
+Feature number 15 (COMPONENT, id = 178) 
   in model AM-3437_HDMEC_TILERUNNER_HD_FTC refers to:
 
 Feature number 16 (COMPONENT, id = 104) 
@@ -57,10 +57,10 @@ Feature number 16 (COMPONENT, id = 104)
 Feature number 8 (COMPONENT, id = 54) 
   in model TILERUNNER_17_HD_FTC_MECANUM_HA refers to:
 
-Feature number 13 (COMPONENT, id = 102) 
+Feature number 17 (COMPONENT, id = 102) 
   in model AM-3437_HDMEC_TILERUNNER_HD_FTC must follow after:
 
-Feature number 10 (COMPONENT, id = 78) 
+Feature number 15 (COMPONENT, id = 178) 
   in model AM-3437_HDMEC_TILERUNNER_HD_FTC - circle closed.
 
 
@@ -74,7 +74,7 @@ Feature number 16 (COMPONENT, id = 104)
 Feature number 8 (COMPONENT, id = 54) 
   in model TILERUNNER_17_HD_FTC_MECANUM_HA refers to:
 
-Feature number 14 (COMPONENT, id = 109) 
+Feature number 18 (COMPONENT, id = 109) 
   in model AM-3437_HDMEC_TILERUNNER_HD_FTC refers to:
 
 Feature number 16 (COMPONENT, id = 104) 
@@ -91,7 +91,7 @@ Feature number 16 (COMPONENT, id = 104)
 Feature number 8 (COMPONENT, id = 54) 
   in model TILERUNNER_17_HD_FTC_MECANUM_HA refers to:
 
-Feature number 13 (COMPONENT, id = 102) 
+Feature number 17 (COMPONENT, id = 102) 
   in model AM-3437_HDMEC_TILERUNNER_HD_FTC refers to:
 
 Feature number 16 (COMPONENT, id = 104) 
