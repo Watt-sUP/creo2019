@@ -1,99 +1,19 @@
 ﻿  MODEL AM-3437_HDMEC_TILERUNNER_HD_FTC :
  
 
-  5 CIRCULAR REFERENCE LOOPS FOUND
+  1 CIRCULAR REFERENCE LOOPS FOUND
  
 
    LOOP #  1
 
-   Depth of loop is 5
+   Depth of loop is 3
 
-Feature number 11 (COMPONENT, id = 57) 
+Feature number 54 (COMPONENT, id = 273) 
   in model AM-3437_HDMEC_TILERUNNER_HD_FTC refers to:
 
-Feature number 16 (COMPONENT, id = 104) 
-  in model TILERUNNER_17_HD_FTC_MECANUM_HA must follow after:
+Feature number 20 (COMPONENT, id = 115) 
+  in model PARTEDINSISTEM refers to:
 
-Feature number 8 (COMPONENT, id = 54) 
-  in model TILERUNNER_17_HD_FTC_MECANUM_HA refers to:
-
-Feature number 17 (COMPONENT, id = 102) 
-  in model AM-3437_HDMEC_TILERUNNER_HD_FTC must follow after:
-
-Feature number 11 (COMPONENT, id = 57) 
+Feature number 54 (COMPONENT, id = 273) 
   in model AM-3437_HDMEC_TILERUNNER_HD_FTC - circle closed.
-
-
-   LOOP #  2
-
-   Depth of loop is 5
-
-Feature number 13 (COMPONENT, id = 122) 
-  in model AM-3437_HDMEC_TILERUNNER_HD_FTC refers to:
-
-Feature number 16 (COMPONENT, id = 104) 
-  in model TILERUNNER_17_HD_FTC_MECANUM_HA must follow after:
-
-Feature number 8 (COMPONENT, id = 54) 
-  in model TILERUNNER_17_HD_FTC_MECANUM_HA refers to:
-
-Feature number 17 (COMPONENT, id = 102) 
-  in model AM-3437_HDMEC_TILERUNNER_HD_FTC must follow after:
-
-Feature number 13 (COMPONENT, id = 122) 
-  in model AM-3437_HDMEC_TILERUNNER_HD_FTC - circle closed.
-
-
-   LOOP #  3
-
-   Depth of loop is 5
-
-Feature number 15 (COMPONENT, id = 178) 
-  in model AM-3437_HDMEC_TILERUNNER_HD_FTC refers to:
-
-Feature number 16 (COMPONENT, id = 104) 
-  in model TILERUNNER_17_HD_FTC_MECANUM_HA must follow after:
-
-Feature number 8 (COMPONENT, id = 54) 
-  in model TILERUNNER_17_HD_FTC_MECANUM_HA refers to:
-
-Feature number 17 (COMPONENT, id = 102) 
-  in model AM-3437_HDMEC_TILERUNNER_HD_FTC must follow after:
-
-Feature number 15 (COMPONENT, id = 178) 
-  in model AM-3437_HDMEC_TILERUNNER_HD_FTC - circle closed.
-
-
-   LOOP #  4
-
-   Depth of loop is 4
-
-Feature number 16 (COMPONENT, id = 104) 
-  in model TILERUNNER_17_HD_FTC_MECANUM_HA must follow after:
-
-Feature number 8 (COMPONENT, id = 54) 
-  in model TILERUNNER_17_HD_FTC_MECANUM_HA refers to:
-
-Feature number 18 (COMPONENT, id = 109) 
-  in model AM-3437_HDMEC_TILERUNNER_HD_FTC refers to:
-
-Feature number 16 (COMPONENT, id = 104) 
-  in model TILERUNNER_17_HD_FTC_MECANUM_HA - circle closed.
-
-
-   LOOP #  5
-
-   Depth of loop is 4
-
-Feature number 16 (COMPONENT, id = 104) 
-  in model TILERUNNER_17_HD_FTC_MECANUM_HA must follow after:
-
-Feature number 8 (COMPONENT, id = 54) 
-  in model TILERUNNER_17_HD_FTC_MECANUM_HA refers to:
-
-Feature number 17 (COMPONENT, id = 102) 
-  in model AM-3437_HDMEC_TILERUNNER_HD_FTC refers to:
-
-Feature number 16 (COMPONENT, id = 104) 
-  in model TILERUNNER_17_HD_FTC_MECANUM_HA - circle closed.
 
