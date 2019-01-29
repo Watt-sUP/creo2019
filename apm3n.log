@@ -1,0 +1,32 @@
+﻿Creo-Inventor Import Log File
+Processing began at: Tue Jan 29 12:40:18 2019
+
+Inventor file : C:\Users\WattsUp\Desktop\APM3N.ipt
+Skipped reserved parameter name : d0
+Skipped reserved parameter name : d1
+Skipped reserved parameter name : d2
+Skipped reserved parameter name : d3
+Skipped reserved parameter name : d7
+Skipped reserved parameter name : d8
+Skipped reserved parameter name : d9
+Skipped reserved parameter name : d10
+Skipped reserved parameter name : d11
+Skipped reserved parameter name : d15
+Skipped reserved parameter name : d16
+Skipped reserved parameter name : d17
+Skipped reserved parameter name : d18
+Skipped reserved parameter name : d19
+Skipped reserved parameter name : d20
+Skipped reserved parameter name : d30
+Skipped reserved parameter name : d33
+Skipped reserved parameter name : d34
+-----------------------------------------------------------------------------
+Datum Entity Details :    Name               Count
+-----------------------------------------------------------------------------
+                          Datum Plane         3
+                          Datum Axes          3
+                          Datum Point         1
+-----------------------------------------------------------------------------
+Processing finished at: Tue Jan 29 12:40:18 2019
+Total processing time: 00:00:00.
+
