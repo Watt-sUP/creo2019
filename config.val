@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--UGC_VERSION = 1024-->
+<XML_DOCUMENT xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/">
+    <PTC_HEADER>
+        <VENDOR>Parametric Technology Corporation</VENDOR>
+        <PRODUCT>Creo Parametric 3502018190</PRODUCT>
+        <XML_VERSION>1.0</XML_VERSION>
+        <HOST_NAME>DESKTOP-3GKVBGH</HOST_NAME>
+        <USER>WattsUp</USER>
+        <MACHINE_TYPE> Intel64 Family 6 Model 158 Stepping 10  GenuineIntel  3000 MHz</MACHINE_TYPE>
+    </PTC_HEADER>
+    <DexSettingsDB mMissingAsWarn="0">
+        <mPlainData SOAP-ENC:Array="[5]">
+            <mPlainData_ENTRY pointer="TRUE">
+                <item__PO__DexSettingThresholdItem__PC__ mStatus="0" mThresholdPlain="0.1" mType="0" pointer="TRUE"/>
+            </mPlainData_ENTRY>
+            <mPlainData_ENTRY pointer="TRUE">
+                <item__PO__DexSettingThresholdItem__PC__ mStatus="0" mThresholdPlain="0.1" mType="1" pointer="TRUE"/>
+            </mPlainData_ENTRY>
+            <mPlainData_ENTRY pointer="TRUE">
+                <item__PO__DexSettingThresholdItem__PC__ mStatus="0" mThresholdPlain="0.1" mType="2" pointer="TRUE"/>
+            </mPlainData_ENTRY>
+            <mPlainData_ENTRY pointer="TRUE">
+                <item__PO__DexSettingItem__PC__ mStatus="0" mType="3" pointer="TRUE"/>
+            </mPlainData_ENTRY>
+            <mPlainData_ENTRY pointer="TRUE">
+                <item__PO__DexSettingItem__PC__ mStatus="0" mType="4" pointer="TRUE"/>
+            </mPlainData_ENTRY>
+        </mPlainData>
+    </DexSettingsDB>
+</XML_DOCUMENT>
